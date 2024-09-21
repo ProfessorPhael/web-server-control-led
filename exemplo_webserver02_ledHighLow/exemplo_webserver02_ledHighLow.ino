@@ -2,8 +2,8 @@
 #include <WebServer.h>    // Biblioteca para criar o servidor web
 
 // Defina o nome da rede Wi-Fi (SSID) e a senha (PASSWORD)
-const char* ssid = "Aldivino-Repetidor";
-const char* password = "ivonete1964";
+const char* ssid = "SUA_REDE";
+const char* password = "SUA_SENHA";
 
 // Cria uma instância do servidor web na porta 80
 WebServer server(80);
